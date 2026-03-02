@@ -1,1 +1,1 @@
-# Traffic_Signal_Rule_Violation_Detect_Using_Camera_And_Send_Car_Picture_In_Telegram-Alert-
+# Traffic_Signal_Rule_Violation_Detect_Using_Camera_And_Send_Car_Picture_In_Telegram
