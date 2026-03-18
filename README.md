@@ -37,7 +37,6 @@ The two modules work together to provide an automated traffic enforcement protot
 | 8           | Green LED (anode)  |
 | 9           | Red LED (anode)    |
 | 10          | Yellow LED (anode) |
-| 11          | White LED (anode)  |
 | 2           | HC-SR04 TRIG       |
 | 3           | HC-SR04 ECHO       |
 | 5           | +5V (optional output) |
@@ -151,22 +150,3 @@ Download from [arduino.cc](https://www.arduino.cc/en/software).
 | Ultrasonic sensor not detecting   | Check wiring; ensure 5V supply; adjust threshold. |
 | No trigger signal between boards  | Verify connections; use a logic analyzer to check pulses. |
 
-## 🚀 Future Enhancements
-
-- Add license plate recognition using AI on captured images.
-- Store violation data (timestamp, image) on an SD card.
-- Use multiple cameras for different lanes.
-- Implement a web dashboard for real-time monitoring.
-
-## 📄 License
-
-This project is open-source and available under the MIT License. Feel free to modify and distribute.
-
-## 👥 Authors
-
-- [Your Name]
-- Contributions welcome!
-
----
-
-**Happy building!** If you have any questions, feel free to open an issue.
